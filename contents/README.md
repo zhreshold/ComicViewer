@@ -1,0 +1,1 @@
+Directory for Comics: put your zip/cbz files here.
