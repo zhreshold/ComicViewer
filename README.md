@@ -1,11 +1,15 @@
 # ComicViewer Repository 
 
-PHP Comic/Manga Viewer best for LAN environment.
+PHP Comic/Manga Viewer.
+
+Best in LAN environment.
+
 Integrated with [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) JavaScript image gallery for mobile and desktop to support touch screen devices.
 
 ## Why 
 
-- Just for fun. 
+- Relaxing
+- Fun
 
 
 ## How to use
@@ -14,7 +18,7 @@ Integrated with [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) JavaScrip
 - Start PHP server.
 - Open URL on any browser and ENJOY!
 
-# Supported formats
+## Supported formats
 
 - Cbz(Zip file alias)
 - Zip
@@ -38,3 +42,8 @@ Of course you can use browsers that support full screen mode, which will be fasc
 ## License
 
 MIT license.
+
+## Acknowledgement
+
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
+* [Folder, a nice theme](http://luiszuno.com/blog/) - Luis Zuno
