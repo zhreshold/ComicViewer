@@ -6,4 +6,4 @@ php:
   - hhvm
   - nightly
   
-  script: phpunit
+script: phpunit --configuration ./demo/phpunit.xml
